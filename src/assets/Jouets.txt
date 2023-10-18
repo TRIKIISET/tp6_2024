@@ -1,0 +1,6 @@
+  lesjouets:Jouet[]=[
+    new Jouet('Lego','assets/Jouets/Lego.jpg',63.4, 44.8,false,2530 ),
+    new Jouet('Téléphone','assets/Jouets/Tel.jpg',22.6, 25.9,false,7850),
+    new Jouet('Mario','assets/Jouets/Mario.jpg',68.2,58.2,true,14689 ),
+    new Jouet('Cercles','assets/Jouets/Cercles.jpg',18.5,16.3,true,22675 )
+  ]
